@@ -46,7 +46,7 @@ iss.penup()
 iss.goto(float(lon), float(lat))
 
 
-# New York, City
+# Los Angeles
 lat = 34.052235
 lon = -118.243683	
 
