@@ -5,6 +5,8 @@
   Program developed in Python 3.6.5 that uses the Open-Notify API to retrieve NASA-produced data of the International Space Station and present its location in a map for the user. Also pings a user-specified location that attaches a timestamp of when the ISS will pass over that location.
   
   Program includes making HTTP requests and JSON parsing on the retrieved ISS data within a Graphical Interface created with the Turtle Module. 
+  
+  Completed as part of an assignment for a course.
 </p>
 
 
